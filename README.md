@@ -1,0 +1,2 @@
+1.在对应的数据集中运行preprocess.py文件，得到完整的数据文件
+2.在train_RippleNet4SR.py中修改对应的超参数，运行该文件即可开始训练模型
